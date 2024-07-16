@@ -158,3 +158,9 @@ section p {
     font-size: 14px;
     margin: 10px 0;
 }
+
+/* inspiration section style, some styles came form youtube "embed video" option, added in html file*/
+.inspiraton-video iframe {
+    border-radius: 16px;
+    border: none;
+}
