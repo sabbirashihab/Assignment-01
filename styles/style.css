@@ -207,3 +207,48 @@ section p {
     align-items: center;
     justify-content: center;
 }
+
+/* support section styles */
+.support {
+    background: url('../assets/handshake.jpg') no-repeat center center;
+    opacity: 0.90;
+    border-radius: 16px;
+}
+
+.support h2{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.support p {
+    margin: 0px 300px 30px;
+    color: white;
+    font-size: 16px;
+}
+.support form {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.support input {
+    padding: 20px;
+    background-color: white;
+    color: #0D1321;
+    font-size: 16px;
+    width: 50%;
+    border: none;
+    border-radius: 10px;
+}
+
+.support button {
+    padding: 16px;
+    background-color: white;
+    color: #0D1321;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+}
