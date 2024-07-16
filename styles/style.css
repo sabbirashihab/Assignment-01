@@ -35,4 +35,39 @@ nav {
     border-radius: 10px;
     text-decoration: none;
 }
-/* nav-bar styles end */
+
+/* hero styles start here */
+.hero {
+    background: url('../assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 26px 220px 45px;
+    color: #0D1321;
+}
+
+.hero img {
+    max-width: 240px;
+    max-height: 240px;
+    margin-bottom: 32px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    margin-bottom: 24px;
+}
+
+.hero p {
+    font-size: 16px;
+    margin: 0px 200px 32px;
+}
+
+.hero-btn {
+    background-color: #0D1321;
+    color: white;
+    padding: 20px 24px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+    text-decoration: none;
+}
