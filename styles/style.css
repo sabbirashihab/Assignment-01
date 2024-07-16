@@ -164,3 +164,31 @@ section p {
     border-radius: 16px;
     border: none;
 }
+
+/* current target styles */
+.skills-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.skill {
+    margin: 40px 0px;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: justify;
+    box-shadow: 0px 5px 50px 0px rgba(0, 0, 0, 0.10);
+}
+
+.html-card{
+    background-color: #f0d9d3;
+}
+
+.css-card {
+    background-color: #d9e1f1;
+}
+
+.js-card {
+    background-color: #f3ecc0d3;
+}
