@@ -192,3 +192,18 @@ section p {
 .js-card {
     background-color: #f3ecc0d3;
 }
+
+/* next target section styles */
+.next-skill {
+    display: flex;
+    gap: 30px;
+    margin: 40px 0px;
+    padding: 50px;
+    border-radius: 16px;
+    text-align: justify;
+    box-shadow: 0px 5px 50px 0px rgba(0, 0, 0, 0.10);
+}
+.next-skill image{
+    align-items: center;
+    justify-content: center;
+}
