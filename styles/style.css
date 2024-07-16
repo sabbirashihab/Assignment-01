@@ -252,3 +252,23 @@ section p {
     border: none;
     border-radius: 10px;
 }
+
+/* footer styles */
+footer {
+    padding: 30px 200px;
+    background-color: rgba(243, 242, 230, 0.863);
+    display: flex;
+    text-align: center;    
+    justify-content: center;
+    justify-content: space-between;
+}
+
+footer p {
+    color: #0D1321;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.social-icons img {
+    margin: 10px;
+}
